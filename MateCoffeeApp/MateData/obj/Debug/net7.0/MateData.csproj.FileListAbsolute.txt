@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\bin\Debug\net7.0\MateData.deps.json
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\bin\Debug\net7.0\MateData.runtimeconfig.json
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\bin\Debug\net7.0\MateData.dll
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\bin\Debug\net7.0\MateData.pdb
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.dll
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\refint\MateData.dll
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.pdb
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateData\obj\Debug\net7.0\ref\MateData.dll
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\bin\Debug\net7.0\MateData.deps.json
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\bin\Debug\net7.0\MateData.runtimeconfig.json
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\bin\Debug\net7.0\MateData.dll
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\bin\Debug\net7.0\MateData.pdb
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.AssemblyInfo.cs
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.dll
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\refint\MateData.dll
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.pdb
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\MateData.genruntimeconfig.cache
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateData\obj\Debug\net7.0\ref\MateData.dll

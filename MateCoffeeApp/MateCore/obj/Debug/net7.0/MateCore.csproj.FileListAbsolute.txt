@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.AssemblyInfo.cs
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\bin\Debug\net7.0\MateCore.deps.json
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\bin\Debug\net7.0\MateCore.runtimeconfig.json
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\bin\Debug\net7.0\MateCore.dll
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\bin\Debug\net7.0\MateCore.pdb
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\bin\Debug\net7.0\MateData.dll
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\bin\Debug\net7.0\MateData.pdb
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.csproj.CopyComplete
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.dll
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\refint\MateCore.dll
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.pdb
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\MateCore.genruntimeconfig.cache
+C:\Users\user\Desktop\Personal-projects\MateCoffeeApp\MateCore\obj\Debug\net7.0\ref\MateCore.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\bin\Debug\net7.0\TheoCoffeeApp.Core.deps.json
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\bin\Debug\net7.0\TheoCoffeeApp.Core.runtimeconfig.json
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\bin\Debug\net7.0\TheoCoffeeApp.Core.dll
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\bin\Debug\net7.0\TheoCoffeeApp.Core.pdb
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\TheoCoffeeApp.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\TheoCoffeeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\TheoCoffeeApp.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\TheoCoffeeApp.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\TheoCoffeeApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\TheoCoffeeApp.Core.dll
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\refint\TheoCoffeeApp.Core.dll
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\TheoCoffeeApp.Core.pdb
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\TheoCoffeeApp.Core.genruntimeconfig.cache
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Core\obj\Debug\net7.0\ref\TheoCoffeeApp.Core.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\bin\Debug\net7.0\TheoCoffeeApp.Data.deps.json
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\bin\Debug\net7.0\TheoCoffeeApp.Data.runtimeconfig.json
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\bin\Debug\net7.0\TheoCoffeeApp.Data.dll
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\bin\Debug\net7.0\TheoCoffeeApp.Data.pdb
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\TheoCoffeeApp.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\TheoCoffeeApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\TheoCoffeeApp.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\TheoCoffeeApp.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\TheoCoffeeApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\TheoCoffeeApp.Data.dll
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\refint\TheoCoffeeApp.Data.dll
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\TheoCoffeeApp.Data.pdb
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\TheoCoffeeApp.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\Personal-projects\Personal-projects\TheoCoffeeShop\TheoCoffeeApp.Data\obj\Debug\net7.0\ref\TheoCoffeeApp.Data.dll
